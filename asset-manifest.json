@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/tattoolist/static/css/main.c799e1e4.chunk.css",
+    "main.js": "/tattoolist/static/js/main.cbe0d07a.chunk.js",
+    "main.js.map": "/tattoolist/static/js/main.cbe0d07a.chunk.js.map",
+    "runtime-main.js": "/tattoolist/static/js/runtime-main.3d7e0e28.js",
+    "runtime-main.js.map": "/tattoolist/static/js/runtime-main.3d7e0e28.js.map",
+    "static/css/2.9a53c423.chunk.css": "/tattoolist/static/css/2.9a53c423.chunk.css",
+    "static/js/2.f1af9b10.chunk.js": "/tattoolist/static/js/2.f1af9b10.chunk.js",
+    "static/js/2.f1af9b10.chunk.js.map": "/tattoolist/static/js/2.f1af9b10.chunk.js.map",
+    "index.html": "/tattoolist/index.html",
+    "precache-manifest.6fbd62d29947b5d4abb6093af490128f.js": "/tattoolist/precache-manifest.6fbd62d29947b5d4abb6093af490128f.js",
+    "service-worker.js": "/tattoolist/service-worker.js",
+    "static/css/2.9a53c423.chunk.css.map": "/tattoolist/static/css/2.9a53c423.chunk.css.map",
+    "static/css/main.c799e1e4.chunk.css.map": "/tattoolist/static/css/main.c799e1e4.chunk.css.map",
+    "static/js/2.f1af9b10.chunk.js.LICENSE": "/tattoolist/static/js/2.f1af9b10.chunk.js.LICENSE",
+    "static/media/App.scss": "/tattoolist/static/media/black_thread.12a990ec.png",
+    "static/media/all.min.css": "/tattoolist/static/media/fa-solid-900.f6121be5.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d7e0e28.js",
+    "static/css/2.9a53c423.chunk.css",
+    "static/js/2.f1af9b10.chunk.js",
+    "static/css/main.c799e1e4.chunk.css",
+    "static/js/main.cbe0d07a.chunk.js"
+  ]
+}
